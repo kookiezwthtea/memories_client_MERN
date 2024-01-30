@@ -9,7 +9,6 @@ export default makeStyles(() => ({
     flexDirection: 'col',
     justifyContent: 'center',
     alignItems: 'center',
-    background: 'rgb(67,9,230)',
     background: 'radial-gradient(circle, rgba(255,255,255,0.8) 0%, rgba(121,70,252,0.5) 100%)',
 
   },
